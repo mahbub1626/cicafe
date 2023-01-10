@@ -23,9 +23,12 @@ h2 {
 }
 
 .nav-link {
-    color: #1ea04a;
     margin-bottom: 0px;
     font-size: 20px;
+}
+.nav-link:hover {
+    color: #1ea04a;
+   
 }
 
 .dinner {
@@ -38,17 +41,13 @@ h2 {
     color: #1ea04a;
 }
 
-
-
 .dinner h2 {
     color: #6c6d70;
     font-size: 40px;
 }
-
 /* headers end */
 
-/* articles start */
-
+/* card start */
 .left-text {
     margin-left: 150px;
 }
@@ -67,9 +66,7 @@ p {
 
     font-size: 22px;
 }
-
-
-/* articles end */
+/* card end */
 
 /* footer start */
 footer {
@@ -86,7 +83,6 @@ footer {
 
 #footer-border img {
     width: 100%;
-
 }
 
 .smicon a i {
@@ -97,5 +93,4 @@ footer {
 .icon-style{
     font-size: 45px;
 }
-
 /* footer end */
